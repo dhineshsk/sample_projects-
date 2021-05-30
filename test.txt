@@ -1,0 +1,3 @@
+First and foremost reason why Python is much popular because it is highly productive as compared to other programming languages like C++ and Java. 
+Python is also very famous for its simple programming syntax,
+ code readability and English-like commands that make coding in Python lot easier and efficient.
